@@ -37,3 +37,8 @@ h1 {
   text-align: left;
   font-size: large;
 }
+.link-to-github {
+  text-align: left;
+  padding-left: 30px;
+  padding-top: 10px;
+}
